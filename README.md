@@ -1,0 +1,2 @@
+# LSC
+New Programming Lenaguje
