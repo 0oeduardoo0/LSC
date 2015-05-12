@@ -1,2 +1,2 @@
 # LSC
-New Programming Lenaguje
+New Programming Language
